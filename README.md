@@ -20,17 +20,43 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Bate papo - React & Next
 
-To learn more about Next.js, take a look at the following resources:
+### Capitulo 1
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[Next] pasta pages gera as rotas - OK
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[React] primeiro componente - OK
+[React] componente usando props.children - OK
+[React] componente usando props - OK
+[React] componente com eventos - OK
 
-## Deploy on Vercel
+### Capitulo 2
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[React] componentes com estado - OK
+Imagem Case
+Abstract: https://plus.unsplash.com/premium_photo-1674478877011-1225b37444c2?w=300
+Flower: https://images.unsplash.com/photo-1719578833621-a3b2f6d4aca6?w=300
+Snow: https://images.unsplash.com/photo-1719216324560-523fc4ddb8b9?w=300
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    Estados controlados e não controlados - OK (NULL por exemplo)
+
+[React] comunicacao entre componentes (direta)
+Comunicação
+[React] comunicacao entre componentes (indireta)
+Functions
+
+### Capitulo 3
+
+[React] renderização condicional - OK
+[React] renderização de listas
+
+### Capitulo 4
+
+[React] Hooks UseState - OK
+[React] Hooks UseEffect - OK
+
+[React] Hooks UseContext
+[React] Hooks UseReducer
+
+[React] Hooks UseMemo -
